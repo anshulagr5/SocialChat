@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "474385232173",
+    "project_id": "chat-social-121",
+    "storage_bucket": "chat-social-121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474385232173:android:e14e66470d5e7f2698e3a4",
+        "android_client_info": {
+          "package_name": "com.anshul.socialchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474385232173-m0tmnujhk4le789dek3nupbdfgj58p1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anshul.socialchat",
+            "certificate_hash": "73aaff847a7e13133ad6b13acc2dacb713a3a8ef"
+          }
+        },
+        {
+          "client_id": "474385232173-p7md1n075vvstq5ot3s58pcpvstqlcmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArg7LTI_wkjN4_Ky7CGNhNtcK32Hyt6No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474385232173-p7md1n075vvstq5ot3s58pcpvstqlcmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
